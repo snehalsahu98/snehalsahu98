@@ -42,10 +42,6 @@ I focus on product-driven data science: understanding user behavior, extracting 
 * LinkedIn: [https://www.linkedin.com/in/snehal-sahu/](https://www.linkedin.com/in/snehal-sahu/)
 * Email: [snehalsahu.jb1998@gmail.com](mailto:snehalsahu.jb1998@gmail.com)
 
-## Quick notes for visitors
-
-* ✅ Interested in collaboration, product-focused data roles, and feedback.
-* 📌 Check my pinned repositories for full projects and demo dashboards.
 
 ---
 
