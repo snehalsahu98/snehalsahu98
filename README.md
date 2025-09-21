@@ -10,11 +10,11 @@ I focus on product-driven data science: understanding user behavior, extracting 
 ## 📂 What you’ll find here
 
 - **SQL Projects**  
-  - [Food Delivery App Data Analysis]() — customer behavior, order patterns, and delivery performance.  
-  - [Library Management System](#) — relational schema design, usage tracking, and lending analysis.  
-  - [Retail Sales Analysis](#) — sales trends, product performance, and customer segmentation.  
-  - [Netflix Data Analysis](#) — exploring content trends, genres, and regional distributions.
-  - [Spotify Data Analysis](#) — insights on music trends, artists, and user listening patterns.
+  - [Food Delivery Analytics]() — customer behavior, order patterns, and delivery performance.  
+  - [Library Management DB](#) — relational schema design, usage tracking, and lending analysis.  
+  - [Retail Sales Insights](#) — sales trends, product performance, and customer segmentation.  
+  - [Netflix Content Trends](#) — exploring content trends, genres, and regional distributions.
+  - [Spotify Listener Insights](#) — insights on music trends, artists, and user listening patterns.
 
 - **Data Structure & Algorithm (BLIND 75)**  
   - [Blind 75 Solutions](https://github.com/snehalsahu98/leetcode_grind75) : My solutions to the **Blind 75 problems** on LeetCode, implemented in Python.  
