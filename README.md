@@ -1,37 +1,44 @@
-# Hi — I’m Snehal Sahu 👋
+# Hey! I’m Snehal  👋
 
 **Data Analyst • Aspiring Product Manager**
-I turn user insights into product decisions. Skilled in **Python**, **SQL**, **R**, and **KNIME**.
+I aim to turn user insights into successful products that help provide real value to the customers. 
 
 ## About me
 
-I focus on product-driven data science: understanding user behavior, extracting actionable insights, and building analytics & ML solutions that inform product decisions. I enjoy end-to-end work — data collection, modeling, and shipping dashboards & prototypes.
+I focus on product-driven data science: understanding user behavior, extracting actionable insights, and building analytics & ML solutions that inform product decisions. I enjoy working end-to-end across the data lifecycle — from collecting and cleaning raw data, to building models and uncovering patterns, and finally translating those insights into actionable recommendations that help stakeholders make informed and impactful decisions.
 
 ## What you’ll find here
 
-* **Credit Card Fraud Detection** — feature engineering, model selection (logistic/tree/ensemble), evaluation & deployment notes.
-* **IMDb Movie Reviews — Text Analytics** — web-scraping, KNIME preprocessing, TF-IDF, sentiment analysis & topic modeling.
-* **Loan Status Prediction** — model to predict loan approvals with explainability and performance metrics.
-* **EV Market Analysis (ICICI Bank Internship)** — market sizing, forecasting, and product recommendations.
-* **Dashboard & Visualization Samples** — interactive dashboards and sample notebooks demonstrating insights-to-product flow.
+
+- **SQL Projects**  
+  - [Food Delivery App Data Analysis](#) — queries and insights on customer behavior, order patterns, and delivery performance.  
+  - [Library Management System](#) — relational schema design, queries for usage tracking, and lending analysis.  
+  - [Retail Sales Analysis](#) — sales trends, product performance, and customer segmentation using SQL.  
+  - [Netflix Data Analysis](#) — exploring content trends, genres, and regional distributions.  
+
+
+
+- **Data Structure & Algorithm (BLIND 75)**  
+  - My solutions to **Blind 75 problems** on LeetCode, written in Python.  
+  - Each solution includes clean code, comments, and my **approach to solving the problem**  
+
+<!--
+- **Machine Learning & Analytics Projects**  
+  - Fraud detection, text analytics, loan prediction, EV market analysis, and dashboard visualizations (see pinned repos).
+-->
 
 *(Each project links to its repository — see pinned repos below.)*
 
 ## Tools & skills
 
-* **Languages / ML:** Python (pandas, scikit-learn, TensorFlow), R
-* **Data / ETL:** SQL, KNIME, web scraping
-* **Visualization:** Tableau, Power BI, Matplotlib
-* **Other:** git, basic Dev/production notes, model evaluation & explainability
+- **Data Science & Analytics**: Python (pandas, scikit-learn, TensorFlow), R, SQL  
+- **Machine Learning & AI**: Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation, Forecasting & Predictive Modeling
+- **Artificial Intelligence**: CNN Architectures & Computer Vision
+- **Data Structures & Algorithms**: Solving problems on LeetCode (Blind 75 in Python)  
+- **Visualization & BI**: Tableau, Power BI, Python (Seaborn)
+- **Text Analytics & NLP**: KNIME used for TF-IDF, Sentiment Analysis, Topic Modeling  
+- **Design & Creativity**: Adobe Photoshop (experience in designing merchandise for IIM Trichy)
 
-## Experience & education
-
-* Internship — EV Market Analysis & product recommendations (ICICI Bank).
-* Prior engineering / analytics experience (see CV & repos for details).
-
-## Certifications
-
-* Advanced Excel / Data visualization (details in CV & certs repo).
 
 ## Get in touch
 
