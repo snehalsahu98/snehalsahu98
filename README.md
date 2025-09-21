@@ -17,7 +17,7 @@ I focus on product-driven data science: understanding user behavior, extracting 
   - [Spotify Data Analysis](#) — insights on music trends, artists, and user listening patterns.
 
 - **Data Structure & Algorithm (BLIND 75)**  
-  - [Blind 75 Solutions](https://github.com/snehalsahu98/leetcode_grind75) — My solutions to the **Blind 75 problems** on LeetCode, implemented in Python.  
+  - [Blind 75 Solutions](https://github.com/snehalsahu98/leetcode_grind75) : My solutions to the **Blind 75 problems** on LeetCode, implemented in Python.  
   - Each solution is clean, optimized, well-documented, and highlights my **problem-solving approach**.  
 
 <!--
