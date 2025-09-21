@@ -1,7 +1,7 @@
 # Hey! I’m Snehal  👋
 
 **Data Analyst • Aspiring Product Manager**
-I aim to turn user insights into successful products that help provide real value to the customers. 
+
 
 ## About me
 
