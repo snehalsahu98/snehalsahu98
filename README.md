@@ -32,7 +32,7 @@ I focus on product-driven data science: understanding user behavior, extracting 
 ## Tools & skills
 
 - **Data Science & Analytics**: Python (pandas, scikit-learn, TensorFlow), R, SQL  
-- **Machine Learning & AI**: Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation, Forecasting & Predictive Modeling
+- **Machine Learning & AI**: Supervised & Unsupervised Learning, Feature Engineering, Model Training & Evaluation
 - **Artificial Intelligence**: CNN Architectures & Computer Vision
 - **Data Structures & Algorithms**: Solving problems on LeetCode (Blind 75 in Python)  
 - **Visualization & BI**: Tableau, Power BI, Python (Seaborn)
