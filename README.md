@@ -1,4 +1,4 @@
-# Hey! I’m Snehal  👋
+# Hey!! I’m Snehal  👋
 
 **Data Analyst • Aspiring Product Manager**
 
