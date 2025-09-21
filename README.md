@@ -46,7 +46,6 @@ I focus on product-driven data science: understanding user behavior, extracting 
 
 * ✅ Interested in collaboration, product-focused data roles, and feedback.
 * 📌 Check my pinned repositories for full projects and demo dashboards.
-* 🚀 Want a quick walkthrough? Open an issue in any project or message me on LinkedIn.
 
 ---
 
