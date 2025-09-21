@@ -37,7 +37,7 @@ I focus on product-driven data science: understanding user behavior, extracting 
 - **Design & Creativity**: Adobe Photoshop (experience in designing merchandise for IIM Trichy)
 
 
-## Get in touch
+## 📩 Get in touch
 
 * LinkedIn: [https://www.linkedin.com/in/snehal-sahu/](https://www.linkedin.com/in/snehal-sahu/)
 * Email: [snehalsahu.jb1998@gmail.com](mailto:snehalsahu.jb1998@gmail.com)
