@@ -1,4 +1,4 @@
-# Hey, I’m Snehal Sahu. Nice to meet you. 
+# Hey, I’m Snehal Sahu 👋
 
 **Data Analyst | Aspiring Product Manager**
 
