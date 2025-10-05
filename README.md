@@ -21,11 +21,12 @@ My goal is to bridge the gap between **data, design, and decision-making** — h
 * **Food Delivery Analytics:** Analysis of customer behavior, order trends, and delivery performance.
 * **Library Management Database:** Schema design, usage tracking, and lending performance insights.
 
-
+<!--
 ### Data Structures & Algorithms (Blind 75)
 
 * **Blind 75 Solutions:** My Python implementations of the Blind 75 problems from LeetCode.
   Each solution emphasizes **clarity, efficiency, and structured problem-solving**, reflecting both algorithmic thinking and clean coding practices.
+-->
 
 ---
 
