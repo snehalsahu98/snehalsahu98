@@ -33,12 +33,19 @@ My goal is to bridge the gap between **data, design, and decision-making** — h
 ## Tools & Skills
 
 * **Data Science & Analytics:** Python (pandas, scikit-learn, TensorFlow), R, SQL
+* **Machine Learning & AI:** Supervised & Unsupervised Learning, Model Training & Evaluation
+* **Text Analytics & NLP:** KNIME (TF-IDF, Sentiment Analysis, Topic Modeling)
+* **Artificial Intelligence:** CNN Architectures, Computer Vision Applications
+* **Visualization & Business Intelligence:** Tableau, Power BI, Seaborn
+
+
+<!--
+
 * **Machine Learning & AI:** Supervised & Unsupervised Learning, Feature Engineering, Model Development & Evaluation
 * **Artificial Intelligence:** CNN Architectures, Computer Vision Applications
 * **Data Structures & Algorithms:** Problem-solving and algorithm design using Python
-* **Visualization & Business Intelligence:** Tableau, Power BI, Seaborn
-* **Text Analytics & NLP:** KNIME (TF-IDF, Sentiment Analysis, Topic Modeling)
 * **Design & Creativity:** Adobe Photoshop (experience designing merchandise for IIM Trichy)
+-->
 
 ---
 
